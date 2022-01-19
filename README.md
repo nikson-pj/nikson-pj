@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikson-pj
-- 👀 I’m interested in Flutter, Wordpress, Cyber Security
-- 🌱 I’m currently doing B-Tech Computer Science & Engineering
+- 👀 I’m interested in Mobile Application Development, Web Development, Cyber Security & Block chain
+- 🌱 I’m currently doing B-Tech in Computer Science & Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me | Instagram | Linkedin |
 
