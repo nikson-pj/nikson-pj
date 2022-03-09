@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikso-pj&label=Profile%20views&color=0e75b6&style=flat" alt="nikso-pj" /> </p>
 
-- 🔭 I’m Currently Doing [B-Tech in Computer Science Engg @RIST](APJ Abdul Kalam Technological University)
+- 🔭 I’m Currently Doing B-Tech in Computer Science Engg @APJ Abdul Kalam Technological University
 
 - 🌱 I’m currently learning **Python Development**
 
